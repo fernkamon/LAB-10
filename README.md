@@ -46,6 +46,11 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
 
+ผลลัพธ์
+
+![](https://github.com/fernkamon/LAB-10/blob/master/imgs/4.JPG)
+
+
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
