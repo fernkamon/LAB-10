@@ -15,6 +15,9 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-1.png">
 </p>
 
+ผลลัพธ์
+
+![](https://github.com/fernkamon/LAB-10/blob/master/1.JPG)
 
 ## การวาดเส้นตรงด้วย pen style และ brush
 * [PenType Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.pentype(v=vs.110).aspx)
