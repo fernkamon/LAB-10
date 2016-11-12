@@ -103,6 +103,10 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
 
+ผลลัพธ์
+
+![](https://github.com/fernkamon/LAB-10/blob/master/imgs/10.JPG)
+
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
