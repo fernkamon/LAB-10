@@ -112,6 +112,10 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
 
+ผลลัพธ์
+
+![](https://github.com/fernkamon/LAB-10/blob/master/imgs/11.JPG)
+
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
 
