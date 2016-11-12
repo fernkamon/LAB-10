@@ -56,6 +56,10 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
 
+ผลลัพธ์
+
+![](https://github.com/fernkamon/LAB-10/blob/master/imgs/5.JPG)
+
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
